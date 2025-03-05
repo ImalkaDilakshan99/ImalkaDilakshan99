@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImalkaDilakshan99
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning at Uva Wellassa University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me imalkadilakshan99@gmail.com

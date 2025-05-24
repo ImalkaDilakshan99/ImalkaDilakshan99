@@ -1,16 +1,16 @@
-# Hi there, I'm Faith Pueneh 👋
+# Hi there, I'm Imalka Dilakshan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-end+Developer;Technical+Writer;UI%2FUX+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;App+Developer;Game+Development+Enthusiast;BICT+Undergraduate" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:puenehfaith@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imalka-dilakshan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imalka_dilakshan)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imalka_dilakshan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://imalkadilakshan.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:imalkadilakshan99@gmail.com)
 
 </div>
 
@@ -18,13 +18,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Fullstack Developer** and **Technical Writer** who loves creating dynamic and beautiful web applications. I enjoy sharing my knowledge through writing and contributing to the developer community.
+I'm a passionate **Full Stack Developer** and **App Developer** currently pursuing my **BICT degree**. I love creating dynamic web applications and mobile apps, with dreams of developing games in the future. When I'm not coding, you'll find me playing video games and exploring new technologies.
 
-- 🔭 I'm currently learning **Developing with AI**
-- 👯 I'm looking to collaborate on any **cool project on fintech**
-- ✍️ Ask me about **CSS, JavaScript ReactJs, NextJs, JavaScript, Java, Python, Dart Flutter, and technical writing**
+- 🔭 I'm currently working on **Full Stack Web Development** and **Mobile App Development**
+- 🎯 I'm focusing on **MERN Stack, Next.js, Java, Kotlin, React Native, Flutter**
+- 🎮 I'm passionate about **Game Development** and planning to pursue it in the future
+- 👯 I'm looking to collaborate on **innovative web and mobile projects**
+- 🎓 Currently an **undergraduate in BICT degree**
 - 📫 Reach me at: **imalkadilakshan99@gmail.com**
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
+- ⚡ Fun fact: I love playing video games in my free time and dream of creating them!
 
 ---
 
@@ -32,26 +34,32 @@ I'm a passionate **Fullstack Developer** and **Technical Writer** who loves crea
 
 <div align="center">
 
-### Frontend Development
+### Frontend & Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Styling & Design
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+### Mobile App Development
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend & Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -61,8 +69,8 @@ I'm a passionate **Fullstack Developer** and **Technical Writer** who loves crea
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=faithpueneh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faithpueneh&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImalkaDilakshan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaDilakshan99&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -78,7 +86,7 @@ I'm a passionate **Fullstack Developer** and **Technical Writer** who loves crea
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=faithpueneh&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ImalkaDilakshan99&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -88,7 +96,7 @@ I'm a passionate **Fullstack Developer** and **Technical Writer** who loves crea
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faithpueneh&custom_title=Faith's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area_color=70a5fd&title_color=70a5fd&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImalkaDilakshan99&custom_title=Imalka's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area_color=70a5fd&title_color=70a5fd&area=true)
 
 </div>
 
@@ -98,21 +106,37 @@ I'm a passionate **Fullstack Developer** and **Technical Writer** who loves crea
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=faithpueneh&repo=your-project-1&theme=tokyonight&hide_border=true)](https://github.com/faithpueneh/your-project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=faithpueneh&repo=your-project-2&theme=tokyonight&hide_border=true)](https://github.com/faithpueneh/your-project-2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ImalkaDilakshan99&repo=your-fullstack-project&theme=tokyonight&hide_border=true)](https://github.com/ImalkaDilakshan99/your-fullstack-project)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ImalkaDilakshan99&repo=your-mobile-app&theme=tokyonight&hide_border=true)](https://github.com/ImalkaDilakshan99/your-mobile-app)
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
+## 🎮 Gaming & Interests
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Create Beautiful React Components](https://yourblogs.com)
-- [JavaScript Tips and Tricks for Beginners](https://yourblogs.com)
-- [Getting Started with Next.js](https://yourblogs.com)
-- [CSS Grid vs Flexbox: When to Use What](https://yourblogs.com)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+</div>
+
+🎯 **Future Goals:** Transitioning into Game Development to create immersive gaming experiences
+🎮 **Current Favorites:** Exploring various game genres and analyzing game mechanics
+🚀 **Dream Project:** Developing my own indie game combining storytelling with innovative gameplay
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React Patterns and State Management
+- Mobile App Performance Optimization
+- Game Development Fundamentals
+- Cloud Computing and DevOps
+- Advanced Database Design
 
 ---
 
@@ -120,12 +144,12 @@ I'm a passionate **Fullstack Developer** and **Technical Writer** who loves crea
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puenehfaith@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imalka-dilakshan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imalka_dilakshan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imalka_dilakshan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://imalkadilakshan.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imalkadilakshan99@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
 
 </div>
 
@@ -133,10 +157,10 @@ I'm a passionate **Fullstack Developer** and **Technical Writer** who loves crea
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💡 "The best way to predict the future is to create it." – Peter Drucker
 
-![Profile Views](https://komarev.com/ghpvc/?username=faithpueneh&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/faithpueneh?label=Follow&style=social)](https://github.com/faithpueneh)
+![Profile Views](https://komarev.com/ghpvc/?username=ImalkaDilakshan99&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/ImalkaDilakshan99?label=Follow&style=social)](https://github.com/ImalkaDilakshan99)
 
 </div>
 

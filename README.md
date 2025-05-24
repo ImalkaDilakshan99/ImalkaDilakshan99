@@ -69,14 +69,14 @@ I'm a passionate **Full Stack Developer** and **App Developer** currently pursui
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImalkaDilakshan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaDilakshan99&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaDilakshan99&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaDilakshan99&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImalkaDilakshan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaDilakshan99&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -97,17 +97,6 @@ I'm a passionate **Full Stack Developer** and **App Developer** currently pursui
 <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImalkaDilakshan99&custom_title=Imalka's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area_color=70a5fd&title_color=70a5fd&area=true)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ImalkaDilakshan99&repo=your-fullstack-project&theme=tokyonight&hide_border=true)](https://github.com/ImalkaDilakshan99/your-fullstack-project)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ImalkaDilakshan99&repo=your-mobile-app&theme=tokyonight&hide_border=true)](https://github.com/ImalkaDilakshan99/your-mobile-app)
 
 </div>
 

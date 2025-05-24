@@ -18,12 +18,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Front-end Developer** and **Technical Writer** who loves creating dynamic and beautiful web applications. I enjoy sharing my knowledge through writing and contributing to the developer community.
+I'm a passionate **Fullstack Developer** and **Technical Writer** who loves creating dynamic and beautiful web applications. I enjoy sharing my knowledge through writing and contributing to the developer community.
 
-- 🔭 I'm currently learning **Semantic UI, Material Design**
+- 🔭 I'm currently learning **Developing with AI**
 - 👯 I'm looking to collaborate on any **cool project on fintech**
-- ✍️ Ask me about **CSS, JavaScript ReactJs, NextJs, JavaScript and technical writing**
-- 📫 Reach me at: **puenehfaith@gmail.com**
+- ✍️ Ask me about **CSS, JavaScript ReactJs, NextJs, JavaScript, Java, Python, Dart Flutter, and technical writing**
+- 📫 Reach me at: **imalkadilakshan99@gmail.com**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
 
 ---
@@ -68,7 +68,7 @@ I'm a passionate **Front-end Developer** and **Technical Writer** who loves crea
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faithpueneh&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaDilakshan99&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
